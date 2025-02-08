@@ -48,5 +48,3 @@
 
 </div>
 <br>
-
-Claro! Vou criar uma versão simplificada e mais visual do seu README.md, destacando suas habilidades e projetos de forma clara e direta. Além disso, adicionarei ícones de tecnologias para torná-lo mais atraente visualmente. Aqui está uma sugestão:
