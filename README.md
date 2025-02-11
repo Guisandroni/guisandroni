@@ -10,7 +10,7 @@
 
 ![guisandroni GitHub stats](https://github-readme-stats.vercel.app/api?username=guisandroni&show_icons=true&theme=tokyonight)
 <br>
-## Tecnologias que utilizo em meus estudos
+
 ### Linguagens e Tecnologias que conheço e uso
 ## Front End
 
@@ -41,9 +41,6 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guisandroni&hide_layout=compact)
 <br>
 
 
