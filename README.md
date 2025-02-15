@@ -48,7 +48,3 @@
 <br>
 
 
-#### 👩🏼‍🎓 Estudante de Análise e desenvolvimento de sistemas na Fatec Sorocaba
-#### 📚 O que estou aprendendo: Nodejs, Java e reactNativ foco em Back End
-#### 💭 Me interesso por: Desenvolvimento Full Stack, Hackathon , Educação, Dota2
-#### 🥂 Vamos bater um papo! Gosto de sugestões de melhoria e dicas de desenvolvimento
