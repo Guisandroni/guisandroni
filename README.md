@@ -82,8 +82,8 @@
 
 ## 📊 Estatísticas do GitHub  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guisandroni&show_icons=true&theme=dark" height="180px">
-  <img src="https://streak-stats.demolab.com?user=guisandroni&theme=tokyonight&hide_border=false&border_radius=5" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=guisandroni&show_icons=true&theme=dark&hide_border=false&border_radius=5&order=3" height="180px">
+  <img src="https://streak-stats.demolab.com?user=guisandroni&theme=dark&hide_border=false&border_radius=5&order=3" height="180px">
 </div>
 
 
