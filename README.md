@@ -78,8 +78,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
----
-
 ## 📊 Estatísticas do GitHub  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guisandroni&show_icons=true&theme=dark&hide_border=false&border_radius=5&order=3" height="180px">
