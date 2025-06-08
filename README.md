@@ -31,8 +31,7 @@
 🚀 Atualmente, estou focado no desenvolvimento **Full Stack**, utilizando **React.js, React Native e Node.js**.  
 📚 Além disso, estou explorando **Java** para backend e desenvolvimento Android, além de conceitos avançados de arquitetura de software.  
 💼 Meu objetivo é ingressar no mercado como desenvolvedor e contribuir com projetos inovadores.  
-[![EndeavourOS](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/endeavouros.png)](https://endeavouros.com/)
-https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/endeavouros.png
+
 ---
 
 ## 🚀 Tecnologias que utilizo  
@@ -79,7 +78,8 @@ https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icon
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
-  
+  [![EndeavourOS](https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/endeavouros.png)](https://endeavouros.com/)
+
 </div>
 
 ## 📊 Estatísticas do GitHub  
