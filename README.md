@@ -79,10 +79,10 @@
 </div>
 
 
-<div>
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/endeavouros-original.svg" alt="Endeavouros" height="40"/>
-  </a>
+
+<a href="https://endeavouros.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/endeavouros-team/artwork-images-logo/main/endeavouros-logo.svg" alt="EndeavourOS" height="40"/>
+</a>
   
 </div>
 
