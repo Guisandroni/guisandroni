@@ -77,9 +77,7 @@
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/endeavouros.png">
-  </div>
+ 
 
 
 </div>
