@@ -78,11 +78,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
-
-
-<a href="https://endeavouros.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/endeavouros-team/artwork-images-logo/main/endeavouros-logo.svg" alt="EndeavourOS" height="40"/>
-</a>
   
 </div>
 
