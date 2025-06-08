@@ -78,6 +78,16 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
+### 🐧 Sistema Operacional
+<div>
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" height="40"/>
+  </a>
+  <a href="https://endeavouros.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/endeavouros-team/artwork-images-logo/main/endeavouros-logo.svg" alt="EndeavourOS" height="40"/>
+  </a>
+</div>
+
 ## 📊 Estatísticas do GitHub  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guisandroni&show_icons=true&theme=dark&hide_border=false&border_radius=5&order=3" height="180px">
