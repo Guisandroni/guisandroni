@@ -73,8 +73,7 @@
 
 ## 📊 Estatísticas do GitHub  
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisandroni&layout=compact&theme=dark">
+
  <img src="https://github-readme-stats.vercel.app/api?username=guisandroni&show_icons=true&theme=dark&hide_border=false&border_radius=5&order=3" height="180px">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisandroni&layout=compact&theme=dark">
 </div>
