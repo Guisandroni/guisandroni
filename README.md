@@ -75,4 +75,8 @@
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=guisandroni&show_icons=true&theme=dark&hide_border=false&border_radius=5&order=3" height="180px">
   <img src="https://streak-stats.demolab.com?user=guisandroni&theme=dark&hide_border=false&border_radius=5&order=3" height="180px">
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 </div>
