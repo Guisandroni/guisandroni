@@ -78,5 +78,5 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=guisandroni&show_icons=true&theme=radical">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=nightowl">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisandroni&layout=compact&theme=nightowl">
 </div>
