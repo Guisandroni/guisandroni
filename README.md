@@ -19,19 +19,9 @@
 <h1 align="center"> Olá, me chamo Guilherme Sandroni! 👋</h1>
 
 <p align="center">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Fatec Sorocaba <br>
-  💻 Full Stack Developer | React | Node.js | React Native <br>
+  🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS) na Fatec Sorocaba <br>
+  💻 Full Stack Developer <br>
 </p>
-
----
-
-## 📝 Sobre mim  
-💡 Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.  
-🚀 Atualmente, estou focado no desenvolvimento **Full Stack**, utilizando **React.js, React Native e Node.js**.  
-📚 Além disso, estou explorando **Java** para backend e desenvolvimento Android, além de conceitos avançados de arquitetura de software.  
-💼 Meu objetivo é ingressar no mercado como desenvolvedor e contribuir com projetos inovadores.  
-
----
 
 ## 🚀 Tecnologias que utilizo  
 
