@@ -28,23 +28,6 @@ Tenho interesse em desenvolvimento de **APIs, microsserviços, bancos de dados, 
 
 <p> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" /> <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> </p>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <a href="https://github.com/guisandroni">
-    <img height="200" align="center"
-      src="https://github-readme-stats.vercel.app/api?username=guisandroni&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    />
-  </a>
-
-  <a href="https://github.com/guisandroni">
-    <img height="200" align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisandroni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    />
-  </a>
-
-</div>
 
 
 📫 Contato
