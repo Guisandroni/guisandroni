@@ -30,44 +30,14 @@ Tenho interesse em desenvolvimento de **APIs REST, microsserviços, bancos de da
 ### 🤖 Inteligência Artificial
 
 <p>
-  <img height="48" src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" />
-  <img height="48" src="https://cdn.simpleicons.org/openai/ffffff" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=000000" />
+  <img src="https://img.shields.io/badge/LangGraph-7FC8FF?style=for-the-badge&logo=langgraph&logoColor=000000" />
+  <img src="https://img.shields.io/badge/LLMs-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-181717?style=for-the-badge" />
 </p>
 
-<p>
-  <strong>LangChain • LLMs • RAG • AI Agents</strong>
-</p>
 
-### 🛠️ Ferramentas e Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,npm,pnpm" />
-  <img height="48" src="https://cdn.simpleicons.org/turborepo/EF4444" alt="Turborepo" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <a href="https://github.com/guisandroni">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=guisandroni&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    />
-  </a>
-
-  <a href="https://github.com/guisandroni">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisandroni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    />
-  </a>
-
-</div>
-
----
 
 ## 📫 Contato
 
